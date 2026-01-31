@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:5000/api/tasks";
+const API_URL = "https://task-management-r9nn.onrender.com/api/tasks";
 const taskList = document.getElementById("taskList");
 
 const form = document.getElementById("taskForm");
