@@ -8,7 +8,8 @@ const taskStatus = document.getElementById("taskStatus"); // ✅ fixed ID
 
 form.addEventListener("submit", async (e) => {
   e.preventDefault();
-//updated
+  //updated
+  //updated
   const task = {
     title: title.value.trim(),
     description: description.value.trim(),
